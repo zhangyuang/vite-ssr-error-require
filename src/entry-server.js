@@ -6,7 +6,7 @@ const foo = require('./foo')
 
 export async function render(url, manifest, rootDir) {
   const { app, router } = createApp()
-
+  console.log('env foo', process.env.FOO)
   // set the router to the desired URL before rendering
   router.push(url)
   await router.isReady()
