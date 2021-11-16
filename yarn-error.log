@@ -1,0 +1,56 @@
+Arguments: 
+  /Users/yuuang/.nvm/versions/node/v14.17.2/bin/node /usr/local/bin/yarn
+
+PATH: 
+  /Users/yuuang/.deno/bin:/usr/local/sbin:/usr/local/bin:/Users/yuuang/.nvm/versions/node/v14.17.2/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/yuuang/.cargo/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.17.2
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: ENOTDIR: not a directory, scandir '/Users/yuuang/Library/Caches/Yarn/v6/npm-vite-0.0.0-7736b8ca-408d-422b-8169-09a48c7f1f7a-1636526625015/node_modules/vite'
+
+npm manifest: 
+  {
+    "name": "test-ssr-vue",
+    "private": true,
+    "version": "0.0.0",
+    "scripts": {
+      "dev": "node server",
+      "build": "npm run build:client && npm run build:server",
+      "build:noExternal": "npm run build:client && npm run build:server:noExternal",
+      "build:client": "vite build --ssrManifest --outDir dist/client",
+      "build:server": "vite build --ssr src/entry-server.js --outDir dist/server",
+      "build:server:noExternal": "vite build --config vite.config.noexternal.js --ssr src/entry-server.js --outDir dist/server",
+      "generate": "vite build --ssrManifest --outDir dist/static && npm run build:server && node prerender",
+      "serve": "cross-env NODE_ENV=production node server",
+      "debug": "node --inspect-brk server"
+    },
+    "dependencies": {
+      "example-external-component": "file:example-external-component",
+      "vite": "file:/Users/yuuang/Desktop/vite/packages/vite/dist/node/index.js",
+      "vue": "^3.2.16",
+      "vue-router": "^4.0.0"
+    },
+    "devDependencies": {
+      "@vitejs/plugin-vue": "^1.0.0",
+      "@vitejs/plugin-vue-jsx": "^1.0.0",
+      "compression": "^1.7.4",
+      "cross-env": "^7.0.3",
+      "dep-import-type": "link:./dep-import-type",
+      "express": "^4.17.1",
+      "serve-static": "^1.14.1"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

@@ -15,9 +15,11 @@
   },
   "dependencies": {
     "example-external-component": "file:example-external-component",
+    "vant": "^3.2.8",
     "vite": "^2.6.11",
     "vue": "^3.2.16",
-    "vue-router": "^4.0.0"
+    "vue-router": "^4.0.0",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.0.0",

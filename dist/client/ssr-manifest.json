@@ -1,0 +1,397 @@
+{
+  "vite/modulepreload-polyfill": [
+    "/assets/Inter-Italic.bab4e808.woff2",
+    "/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "src/App.vue?vue&type=style&index=0&lang.css": [
+    "/assets/Inter-Italic.bab4e808.woff2",
+    "/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "plugin-vue:export-helper": [
+    "/assets/Inter-Italic.bab4e808.woff2",
+    "/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "src/App.vue": [
+    "/assets/Inter-Italic.bab4e808.woff2",
+    "/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "vite/preload-helper": [
+    "/assets/Inter-Italic.bab4e808.woff2",
+    "/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "src/router.js": [
+    "/assets/Inter-Italic.bab4e808.woff2",
+    "/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "src/main.js": [
+    "/assets/Inter-Italic.bab4e808.woff2",
+    "/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "src/entry-client.js": [
+    "/assets/Inter-Italic.bab4e808.woff2",
+    "/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "index.html": [
+    "/assets/Inter-Italic.bab4e808.woff2",
+    "/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "node_modules/vue-router/node_modules/@vue/devtools-api/lib/esm/env.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "node_modules/vue-router/node_modules/@vue/devtools-api/lib/esm/const.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "node_modules/vue-router/node_modules/@vue/devtools-api/lib/esm/proxy.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "node_modules/vue-router/node_modules/@vue/devtools-api/lib/esm/api/api.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "node_modules/vue-router/node_modules/@vue/devtools-api/lib/esm/api/app.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "node_modules/vue-router/node_modules/@vue/devtools-api/lib/esm/api/component.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "node_modules/vue-router/node_modules/@vue/devtools-api/lib/esm/api/context.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "node_modules/vue-router/node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "node_modules/vue-router/node_modules/@vue/devtools-api/lib/esm/api/util.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "node_modules/vue-router/node_modules/@vue/devtools-api/lib/esm/api/index.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "node_modules/vue-router/node_modules/@vue/devtools-api/lib/esm/plugin.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "node_modules/vue-router/node_modules/@vue/devtools-api/lib/esm/index.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "node_modules/vue-router/dist/vue-router.esm-bundler.js": [
+    "/assets/vendor.6149d32b.js"
+  ],
+  "src/pages/About.vue?vue&type=style&index=0&scoped=true&lang.css": [
+    "/assets/About.9c6d6214.js",
+    "/assets/About.47a8f1d0.css"
+  ],
+  "src/pages/About.vue": [
+    "/assets/About.9c6d6214.js",
+    "/assets/About.47a8f1d0.css"
+  ],
+  "\u0000commonjsHelpers.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/utils/index.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/utils/basic.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/utils/basic.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/utils/props.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/utils/props.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/utils/dom.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/@vant/use/dist/esm/index.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/@vant/use/dist/esm/index.js?commonjs-proxy": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vue/index.js?commonjs-module": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vue/dist/vue.cjs.prod.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/@vue/compiler-core/dist/compiler-core.esm-bundler.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/@vue/compiler-dom/dist/compiler-dom.esm-bundler.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/@vue/compiler-dom/dist/compiler-dom.esm-bundler.js?commonjs-proxy": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js?commonjs-proxy": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/@vue/shared/dist/shared.esm-bundler.js?commonjs-proxy": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vue/dist/vue.cjs.prod.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vue/index.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/utils/validate.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/utils/validate.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/utils/dom.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/utils/create.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/utils/format.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/utils/format.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/locale/index.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/utils/deep-assign.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/utils/deep-assign.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/locale/lang/zh-CN.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/locale/lang/zh-CN.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/locale/index.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/utils/create.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/utils/constant.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/utils/constant.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/utils/interceptor.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/utils/interceptor.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/utils/with-install.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/utils/with-install.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/utils/index.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/button/Button.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/composables/use-route.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/composables/use-route.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/icon/index.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/icon/Icon.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/badge/index.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/badge/Badge.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/badge/Badge.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/badge/index.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/config-provider/ConfigProvider.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/config-provider/ConfigProvider.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/icon/Icon.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/icon/index.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/loading/index.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "\u0000/Users/yuuang/Desktop/ssr-vue/node_modules/vant/lib/loading/Loading.js?commonjs-exports": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/loading/Loading.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/loading/index.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/button/Button.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/button/index.js": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/vant/lib/index.css": [
+    "/assets/index.2c0c3466.js",
+    "/assets/index.04289b19.css"
+  ],
+  "node_modules/example-external-component/ExampleExternalComponent.vue": [
+    "/assets/External.312295db.js"
+  ],
+  "src/pages/External.vue": [
+    "/assets/External.312295db.js"
+  ],
+  "src/assets/logo.png": [
+    "/assets/Home.c03579e5.js",
+    "/assets/Home.d500b5b9.css",
+    "/assets/logo.03d6d6da.png"
+  ],
+  "@foo": [
+    "/assets/Home.c03579e5.js",
+    "/assets/Home.d500b5b9.css",
+    "/assets/logo.03d6d6da.png"
+  ],
+  "src/pages/Home.vue?vue&type=style&index=0&scoped=true&lang.css": [
+    "/assets/Home.c03579e5.js",
+    "/assets/Home.d500b5b9.css",
+    "/assets/logo.03d6d6da.png"
+  ],
+  "src/pages/Home.vue": [
+    "/assets/Home.c03579e5.js",
+    "/assets/Home.d500b5b9.css",
+    "/assets/logo.03d6d6da.png"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/env.js": [
+    "/assets/Store.c48f405f.js",
+    "/assets/Store.424e932e.css"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/const.js": [
+    "/assets/Store.c48f405f.js",
+    "/assets/Store.424e932e.css"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/proxy.js": [
+    "/assets/Store.c48f405f.js",
+    "/assets/Store.424e932e.css"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/index.js": [
+    "/assets/Store.c48f405f.js",
+    "/assets/Store.424e932e.css"
+  ],
+  "node_modules/vuex/dist/vuex.esm-bundler.js": [
+    "/assets/Store.c48f405f.js",
+    "/assets/Store.424e932e.css"
+  ],
+  "src/pages/Store.vue?vue&type=style&index=0&scoped=true&lang.css": [
+    "/assets/Store.c48f405f.js",
+    "/assets/Store.424e932e.css"
+  ],
+  "src/pages/Store.vue": [
+    "/assets/Store.c48f405f.js",
+    "/assets/Store.424e932e.css"
+  ],
+  "src/components/ImportType.vue": [
+    "/assets/ImportType.94b45774.js"
+  ],
+  "src/components/foo.css": [
+    "/assets/Foo.e6943633.js",
+    "/assets/Foo.a8752494.css"
+  ],
+  "src/components/Foo.jsx": [
+    "/assets/Foo.e6943633.js",
+    "/assets/Foo.a8752494.css"
+  ]
+}
