@@ -4,7 +4,7 @@
     <img src="../assets/logo.png" alt="logo" />
   </p>
   <button @click="state.count++">count is: {{ state.count }}</button>
-  <Button>123</Button>
+  <!-- <Button>123</Button> -->
   <Foo />
   <p class="virtual">msg from virtual module: {{ foo.msg }}</p>
   <p class="inter">this will be styled with a font-face</p>
@@ -17,7 +17,7 @@
 <script setup>
 import foo from '@foo'
 import { reactive, defineAsyncComponent } from 'vue'
-import Button from 'vant/lib/button'
+// import Button from 'vant/lib/button'
 // import Button from 'vant/lib/button/index'
 
 const ImportType = load('ImportType')
