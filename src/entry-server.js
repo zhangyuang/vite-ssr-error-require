@@ -2,7 +2,6 @@ import { createApp } from './main'
 import { renderToString } from 'vue/server-renderer'
 import path from 'path'
 
-
 export async function render(url, manifest, rootDir) {
   const { app, router } = createApp()
 

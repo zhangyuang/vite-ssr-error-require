@@ -1,44 +1,33 @@
-<template>
-  <h1>Home</h1>
-  <p>
-    <img src="../assets/logo.png" alt="logo" />
-  </p>
-  <button @click="state.count++">count is: {{ state.count }}</button>
-  <!-- <Button>123</Button> -->
-  <Foo />
-  <p class="virtual">msg from virtual module: {{ foo.msg }}</p>
-  <p class="inter">this will be styled with a font-face</p>
-  <p class="import-meta-url">{{ state.url }}</p>
-  <p class="protocol">{{ state.protocol }}</p>
 
-  <ImportType />
+<template>
+  <div>
+    <popup />
+    这段文字不渲染 Teleport Hydration node mismatch:
+  </div>
 </template>
 
-<script setup>
-import foo from '@foo'
-import { reactive, defineAsyncComponent } from 'vue'
-import Button from 'vant/lib/button'
-// import Button from 'vant/lib/button/index'
+<script lang="ts">
+import { defineComponent } from 'vue'
+import popup from '../components/popup'
 
-const ImportType = load('ImportType')
-const Foo = defineAsyncComponent(() =>
-  import('../components/Foo').then((mod) => mod.Foo)
-)
-function load(file) {
-  return defineAsyncComponent(() => import(`../components/${file}.vue`))
-}
-const url = import.meta.env.SSR ? import.meta.url : document.querySelector('.import-meta-url').textContent
-const protocol = new URL(url).protocol
-const state = reactive({
-  count: 0,
-  protocol,
-  url
+export default defineComponent({
+  components: {
+    popup
+  },
+  data () {
+    return {
+      showPopover: false,
+      actions: [
+        { text: '选项一' },
+        { text: '选项二' },
+        { text: '选项三' }
+      ]
+    }
+  },
+  created () {
+  }
 })
 </script>
 
-<style scoped>
-h1,
-a {
-  color: green;
-}
+<style>
 </style>

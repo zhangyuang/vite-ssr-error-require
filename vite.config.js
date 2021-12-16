@@ -5,6 +5,7 @@ const vueJsx = require('@vitejs/plugin-vue-jsx')
  * @type {import('vite').UserConfig}
  */
 module.exports = {
+  mode: 'production',
   plugins: [
     vuePlugin(),
     vueJsx(),
@@ -24,5 +25,8 @@ module.exports = {
   ],
   build: {
     minify: false
+  },
+  ssr: {
+    external: ['semver']
   }
 }
